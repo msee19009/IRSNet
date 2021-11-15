@@ -1,1 +1,1 @@
-This repository contains 
+This repository contains the trained weights, and a Jupyter Notebook for testing IRS-Net (Introuced in "Throughput maximization of an IRS-assistedwireless powered network with interference: A deep-unsupervised learning approach"). Moreover, The code for training IRS-Net for throughput maximization proble, of wireless powered communication network is also added.
